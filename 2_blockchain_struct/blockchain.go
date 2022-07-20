@@ -67,3 +67,4 @@ func main() {
 	blockChain.CreateBlock(2, "hash 2")
 	blockChain.Print()
 }
+
