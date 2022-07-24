@@ -5,6 +5,7 @@ import (
 	"flag"
 	"goblockchain/block"
 	"goblockchain/utils"
+	"goblockchain/wallet"
 	"io"
 	"log"
 	"net/http"
